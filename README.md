@@ -1,1 +1,1 @@
-# Short_Projects
+# This repository demonstrates some short projects i made in my c++ object oriented class.
